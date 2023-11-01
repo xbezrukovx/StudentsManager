@@ -1,0 +1,6 @@
+students-keeper:
+  loadOnStart: true
+  students:
+    - firstName: Denis
+      lastName: Bezrukov
+      age: 25
